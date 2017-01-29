@@ -6,7 +6,7 @@ public class meteor : MonoBehaviour {
     public int truc = 0;
 	// Use this for initialization
 	void Start () {
-	
+
 	}
 	
     void OnCollisionEnter (Collision other)
